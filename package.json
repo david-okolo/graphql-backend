@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:david-okolo/graphql-backend.git",
+  "author": "David Okolo <david.okolo@icloud.com>",
+  "license": "MIT"
+}
